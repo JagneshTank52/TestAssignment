@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8HRT94MYxD5A3hDk4I6ts6gBW94PBFZoHCoB3E5gGpE=",
+  "Hash": "DIaKDNxnW7+o52vOjU8f8i6kC/rZsPq4FretAg6pz3k=",
   "Source": "TestAssignment.Web",
   "BasePath": "_content/TestAssignment.Web",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Assignment\\TestAssignment\\TestAssignment.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestAssignment.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\Assignment\\TestAssignment\\TestAssignment.Web\\wwwroot\\css\\custom.css",
+      "SourceId": "TestAssignment.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Assignment\\TestAssignment\\TestAssignment.Web\\wwwroot\\",
+      "BasePath": "_content/TestAssignment.Web",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
       "Identity": "E:\\Assignment\\TestAssignment\\TestAssignment.Web\\wwwroot\\css\\site.css",

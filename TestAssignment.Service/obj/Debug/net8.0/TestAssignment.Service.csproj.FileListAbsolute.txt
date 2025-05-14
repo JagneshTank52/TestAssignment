@@ -15,3 +15,4 @@ E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignm
 E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\refint\TestAssignment.Service.dll
 E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.pdb
 E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\ref\TestAssignment.Service.dll
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.sourcelink.json

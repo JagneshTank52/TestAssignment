@@ -12,3 +12,4 @@ E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\refint\TestA
 E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.pdb
 E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.genruntimeconfig.cache
 E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\ref\TestAssignment.Entity.dll
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.sourcelink.json

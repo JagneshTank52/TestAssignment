@@ -110,3 +110,12 @@ E:\Assignment\TestAssignment\TestAssignment.Web\obj\Debug\net8.0\refint\TestAssi
 E:\Assignment\TestAssignment\TestAssignment.Web\obj\Debug\net8.0\TestAssignment.Web.pdb
 E:\Assignment\TestAssignment\TestAssignment.Web\obj\Debug\net8.0\TestAssignment.Web.genruntimeconfig.cache
 E:\Assignment\TestAssignment\TestAssignment.Web\obj\Debug\net8.0\ref\TestAssignment.Web.dll
+E:\Assignment\TestAssignment\TestAssignment.Web\obj\Debug\net8.0\TestAssignment.Web.sourcelink.json
+e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

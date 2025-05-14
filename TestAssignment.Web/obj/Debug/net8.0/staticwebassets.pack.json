@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\TestAssignment.Web.bundle.scp.css"
     },
     {
+      "Id": "E:\\Assignment\\TestAssignment\\TestAssignment.Web\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "E:\\Assignment\\TestAssignment\\TestAssignment.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

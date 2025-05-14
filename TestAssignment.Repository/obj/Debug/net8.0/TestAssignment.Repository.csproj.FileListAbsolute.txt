@@ -13,3 +13,4 @@ E:\Assignment\TestAssignment\TestAssignment.Repository\obj\Debug\net8.0\TestAssi
 E:\Assignment\TestAssignment\TestAssignment.Repository\obj\Debug\net8.0\refint\TestAssignment.Repository.dll
 E:\Assignment\TestAssignment\TestAssignment.Repository\obj\Debug\net8.0\TestAssignment.Repository.pdb
 E:\Assignment\TestAssignment\TestAssignment.Repository\obj\Debug\net8.0\ref\TestAssignment.Repository.dll
+E:\Assignment\TestAssignment\TestAssignment.Repository\obj\Debug\net8.0\TestAssignment.Repository.sourcelink.json
