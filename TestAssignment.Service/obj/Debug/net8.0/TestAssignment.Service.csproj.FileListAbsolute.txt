@@ -1,0 +1,17 @@
+E:\Assignment\TestAssignment\TestAssignment.Service\bin\Debug\net8.0\TestAssignment.Service.deps.json
+E:\Assignment\TestAssignment\TestAssignment.Service\bin\Debug\net8.0\TestAssignment.Service.dll
+E:\Assignment\TestAssignment\TestAssignment.Service\bin\Debug\net8.0\TestAssignment.Service.pdb
+E:\Assignment\TestAssignment\TestAssignment.Service\bin\Debug\net8.0\TestAssignment.Entity.dll
+E:\Assignment\TestAssignment\TestAssignment.Service\bin\Debug\net8.0\TestAssignment.Repository.dll
+E:\Assignment\TestAssignment\TestAssignment.Service\bin\Debug\net8.0\TestAssignment.Repository.pdb
+E:\Assignment\TestAssignment\TestAssignment.Service\bin\Debug\net8.0\TestAssignment.Entity.pdb
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.csproj.AssemblyReference.cache
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.AssemblyInfoInputs.cache
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.AssemblyInfo.cs
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.csproj.CoreCompileInputs.cache
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssi.0D88E04C.Up2Date
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.dll
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\refint\TestAssignment.Service.dll
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\TestAssignment.Service.pdb
+E:\Assignment\TestAssignment\TestAssignment.Service\obj\Debug\net8.0\ref\TestAssignment.Service.dll

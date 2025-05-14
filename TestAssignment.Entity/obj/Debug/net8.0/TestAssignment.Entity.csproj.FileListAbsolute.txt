@@ -1,0 +1,14 @@
+E:\Assignment\TestAssignment\TestAssignment.Entity\bin\Debug\net8.0\TestAssignment.Entity.deps.json
+E:\Assignment\TestAssignment\TestAssignment.Entity\bin\Debug\net8.0\TestAssignment.Entity.runtimeconfig.json
+E:\Assignment\TestAssignment\TestAssignment.Entity\bin\Debug\net8.0\TestAssignment.Entity.dll
+E:\Assignment\TestAssignment\TestAssignment.Entity\bin\Debug\net8.0\TestAssignment.Entity.pdb
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.csproj.AssemblyReference.cache
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.AssemblyInfoInputs.cache
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.AssemblyInfo.cs
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.csproj.CoreCompileInputs.cache
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.dll
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\refint\TestAssignment.Entity.dll
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.pdb
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\TestAssignment.Entity.genruntimeconfig.cache
+E:\Assignment\TestAssignment\TestAssignment.Entity\obj\Debug\net8.0\ref\TestAssignment.Entity.dll
