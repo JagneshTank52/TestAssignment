@@ -10,8 +10,6 @@ public class TestAssignmentContext : DbContext
     public DbSet<User> Users { get; set; }
     public DbSet<UserRole> userRoles { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) => optionsBuilder.UseNpgsql("Host=localhost;Database=TestAssignmentdot;Username=postgres;Password=tatva123;");
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);

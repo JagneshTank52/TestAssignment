@@ -18,7 +18,7 @@ public static class DependencyInjection
     {
         // Connect Database
         services.AddDbContext<TestAssignmentContext>(options =>
-        options.UseNpgsql(connectionString));
+        options.UseNpgsql(connectionString,x => x.MigrationsAssembly("TestAssignment.Entity")));
 
         // Register JWT Authentication
         var key = Encoding.UTF8.GetBytes(services.BuildServiceProvider().GetRequiredService<IConfiguration>()["JwtSettings:Key"]!);

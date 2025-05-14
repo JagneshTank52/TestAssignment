@@ -4,7 +4,6 @@ namespace TestAssignment.Entity.Models;
 
 public class User
 {
-
     public int Id { get; set; }
 
     public string FirstName { get; set; } = string.Empty;
@@ -21,5 +20,4 @@ public class User
     public int UserRoleId { get; set; }
 
     public UserRole UserRole {get; set;} = null!;
-
 }
