@@ -43,3 +43,7 @@ html {
 .error-page-text{
     color: var(--primary-color);
 }
+
+.navigation ul li.active {
+    border-bottom: 2px solid var(--primary-color);
+}

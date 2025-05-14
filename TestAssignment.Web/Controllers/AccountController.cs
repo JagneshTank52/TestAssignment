@@ -1,6 +1,7 @@
 using System.Security.Claims;
 using Microsoft.AspNetCore.Mvc;
 using TestAssignment.Repository.ViewModel;
+using TestAssignment.Service.Helper;
 using TestAssignment.Service.Interface;
 
 namespace TestAssignment.Web.Controllers;
@@ -35,14 +36,14 @@ public class AccountController : Controller
 
     // POST - LOGIN
     [HttpPost]
-    public async Task<IActionResult> Login(LoginVm model)
+    public async Task<IActionResult> Login(LoginVm loginModel)
     {
         if (!ModelState.IsValid)
         {
-            return View(model);
+            return View(loginModel);
         }
 
-        var (success, token,message,user) = await _authenticationService.LoginUser(model);
+        var (success, token,message,user) = await _authenticationService.LoginUser(loginModel);
 
         if (!success || user == null)
         {

@@ -20,7 +20,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-app.UseStatusCodePages(async statusCodeContext =>
+app.UseStatusCodePages(async statusCodeContext => 
 {
     var request = statusCodeContext.HttpContext.Request;
     var response = statusCodeContext.HttpContext.Response;

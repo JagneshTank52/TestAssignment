@@ -119,3 +119,4 @@ e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.Ident
 e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 e:\Assignment\TestAssignment\TestAssignment.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+e:\Assignment\TestAssignment\TestAssignment.Web\obj\Debug\net8.0\TestAssignment.Web.MvcApplicationPartsAssemblyInfo.cs
